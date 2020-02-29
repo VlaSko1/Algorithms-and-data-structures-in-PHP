@@ -1,1 +1,0 @@
-Here I will post my homework on the course "Algorithms and data structures in PHP"
